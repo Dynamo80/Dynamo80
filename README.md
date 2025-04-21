@@ -18,4 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dynamo80&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Contact
+Let's talk! I'm excited to connect with fellow developers
+My email - dynamo.exe@proton.me
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
