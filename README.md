@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Self-learning AI assistant<br>👯 I’m looking to collaborate on Smart Tech<br>🤝 I’m looking for help with AI Memory<br>🌱 I’m currently re-learning React.js<br>⚡ Fun fact, I'm just 14! <br> 📂[ My Portfolio](https://abin14.vercel.app/) 
+🔭 I’m currently working on Venditas, a startup aimed on protecting Indian societies<br>👯 I’m looking to collaborate on Smart Tech<br>🤝 I’m looking for help with AI Memory<br>🌱 I’m currently re-learning React.js<br>⚡ Fun fact, I'm just 14! <br> 📂[ My Portfolio](https://abin14.vercel.app/) <br> [Venditas](https://venditas.in/)
 
 
 ## 🌐 Socials:
