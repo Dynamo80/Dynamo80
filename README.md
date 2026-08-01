@@ -20,5 +20,5 @@
 
 ## Contact
 Let's talk! I'm excited to connect with fellow developers
-My email - founder@venditas.in
+My email - aventis61@gmail.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
